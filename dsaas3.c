@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <malloc.h>
-#define MAX 3
+#define MAX 10
 
 int count = 0;
 
